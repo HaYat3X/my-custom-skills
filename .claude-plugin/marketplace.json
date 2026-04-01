@@ -8,6 +8,11 @@
       "name": "python-review-beginner",
       "source": "./.claude/skills/python-review-beginner",
       "description": "新人向けPythonコードレビュースキル"
+    },
+    {
+      "name": "self-introduction",
+      "source": "./.claude/skills/self-introduction",
+      "description": "自己紹介を行うスキル"
     }
   ]
 }
