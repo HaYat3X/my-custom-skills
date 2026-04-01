@@ -1,0 +1,13 @@
+{
+  "name": "my-custom-skills",
+  "owner": {
+    "name": "HaYat3X"
+  },
+  "plugins": [
+    {
+      "name": "python-review-beginner",
+      "source": "./.claude/skills/python-review-beginner",
+      "description": "新人向けPythonコードレビュースキル"
+    }
+  ]
+}
