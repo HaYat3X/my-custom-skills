@@ -23,6 +23,11 @@
       "name": "readme-generator",
       "source": "./.claude/skills/readme-generator",
       "description": "Notionのページを取得し、要約する"
+    },
+    {
+      "name": "kiro-spec",
+      "source": "./.claude/skills/kiro-spec",
+      "description": "Kiroみたいな要件定義ができるやつ"
     }
   ]
 }
