@@ -13,6 +13,11 @@
       "name": "self-introduction",
       "source": "./.claude/skills/self-introduction",
       "description": "自己紹介を行うスキル"
+    },
+    {
+      "name": "notion",
+      "source": "./.claude/skills/notion",
+      "description": "Notionのページを取得し、要約する"
     }
   ]
 }
