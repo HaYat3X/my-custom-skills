@@ -18,6 +18,11 @@
       "name": "notion",
       "source": "./.claude/skills/notion",
       "description": "Notionのページを取得し、要約する"
+    },
+    {
+      "name": "readme-generator",
+      "source": "./.claude/skills/readme-generator",
+      "description": "Notionのページを取得し、要約する"
     }
   ]
 }
